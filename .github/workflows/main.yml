@@ -8,7 +8,7 @@ on:
         required: true
         default: 'your indentity'
       agent_description:
-        description: 'lokie'
+        description: 'your indentity'
         required: true
         default: 'your indentity AI Agent'
 
